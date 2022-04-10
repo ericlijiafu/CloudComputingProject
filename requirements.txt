@@ -1,0 +1,10 @@
+pytest
+pylint
+black
+jupyter
+pytest-cov
+pandas
+nbval
+click
+flask
+requests
